@@ -4,4 +4,4 @@
 
 > 使用前请仔细查阅该插件的README
 
-<a href="https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/readme-zh_cn.md"><strong>插件目录</strong></a>
+<a href="https://github.com/XCWQW1/iirosebot-plugins/blob/main/data/README.md"><strong>插件目录</strong></a>
