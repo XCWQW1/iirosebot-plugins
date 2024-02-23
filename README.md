@@ -5,4 +5,4 @@
 
 > 使用前请仔细查阅该插件的README
  
-如果您想提交您的插件到本仓库，请fork [示例仓库](https://github.com/XCWQW1/iirosebot_example_plugin_repository) 按格式修改后修改本仓库列表并且pr
+如果您想提交您的插件到本仓库，请fork [示例仓库](https://github.com/XCWQW1/iirose_example) 按格式修改后修改本仓库列表并且pr
