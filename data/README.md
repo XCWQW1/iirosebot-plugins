@@ -9,3 +9,4 @@
 | [iirose_what2eat](https://github.com/SaltedFish0208/iirosebot_what2eat) | [SaltedFish0208](https://github.com/SaltedFish0208) | 让机器人帮你决定今天吃什么 | 2024/2/23 |
 | [iirose_fortune](https://github.com/SaltedFish0208/iirosebot_fortune) | [SaltedFish0208](https://github.com/SaltedFish0208) | 看看你的今日运势 | 2024/2/23 |
 | [iirose_caption_generator](https://github.com/SaltedFish0208/iirosebot_caption_generator) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的逆天文案生成器插件 | 2024/2/24 |
+| [iirose_anime](https://github.com/SaltedFish0208/iirosebot_anime) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的番剧点播插件 | 2024/2/24 |
