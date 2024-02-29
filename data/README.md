@@ -14,3 +14,4 @@
 | [iirose_weather](https://github.com/SaltedFish0208/iirosebot_weather) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的天气查询插件 | 2024/2/28 |
 | [iirose_today_history](https://github.com/SaltedFish0208/iirosebot_today_history) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的历史上的今天插件 | 2024/2/28 |
 | [iirose_today_news](https://github.com/SaltedFish0208/iirosebot_today_news) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的今日60s插件 | 2024/2/28 |
+| [iirose_anime_search](https://github.com/SaltedFish0208/iirosebot_anime_search) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的搜图插件 | 2024/2/29 |
