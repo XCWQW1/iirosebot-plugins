@@ -3,9 +3,9 @@
 
 | 插件名                                        | 作者 | 描述 | 最近更新 |
 |--------------------------------------------| --- | --- | --- |
-| [iirose-example](https://github.com/XCWQW1/iirose_example) | [XCWQW1](https://github.com/XCWQW1) | 示例插件仓库 | 2024/2/23 |
-| [iirose-gold](https://github.com/XCWQW1/iirose_gold) | [XCWQW1](https://github.com/XCWQW1) | 蔷薇股票播报 | 2024/01/31 |
-| [iirose-music](https://github.com/XCWQW1/iirose_music) | [XCWQW1](https://github.com/XCWQW1) | 网易云点歌 | 2024/01/31 |
+| [iirose-example](https://github.com/XCWQW1/iirose_example) | [XCWQW1](https://github.com/XCWQW1) | 示例插件仓库 | 2024/7/5 |
+| [iirose-gold](https://github.com/XCWQW1/iirose_gold) | [XCWQW1](https://github.com/XCWQW1) | 蔷薇股票播报 | 2024/7/5 |
+| [iirose-music](https://github.com/XCWQW1/iirose_music) | [XCWQW1](https://github.com/XCWQW1) | 网易云点歌 | 2024/7/5 |
 | [iirose_what2eat](https://github.com/SaltedFish0208/iirosebot_what2eat) | [SaltedFish0208](https://github.com/SaltedFish0208) | 让机器人帮你决定今天吃什么 | 2024/2/23 |
 | [iirose_fortune](https://github.com/SaltedFish0208/iirosebot_fortune) | [SaltedFish0208](https://github.com/SaltedFish0208) | 看看你的今日运势 | 2024/2/23 |
 | [iirose_caption_generator](https://github.com/SaltedFish0208/iirosebot_caption_generator) | [SaltedFish0208](https://github.com/SaltedFish0208) | 适用于iirosebot的逆天文案生成器插件 | 2024/2/24 |
